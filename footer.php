@@ -1,8 +1,8 @@
-<div class="panel panel-default">
+﻿<div class="panel panel-default">
     <div class="panel-body" style="background-color: #cce0f2;">
         <div class="text-center">
             <p style="font-size:20px;font-weight: bold">
-                <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> 聯絡我們
+                <!--<span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> 聯絡我們-->
                 <span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span> 02 2833 9999
             </p>
         </div>
